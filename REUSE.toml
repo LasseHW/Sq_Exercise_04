@@ -1,0 +1,9 @@
+version = 1
+SPDX-PackageName = "Shape Area Calculator"
+SPDX-PackageDownloadLocation = "<https://github.com/LasseHW/Sq_Exercise_04.git>"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2024 Lasse Wilhelm"
+SPDX-License-Identifier = "MIT"

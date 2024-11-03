@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 L.W.
+#
+# SPDX-License-Identifier: MIT
 from module import calculate_area
 
 def main():

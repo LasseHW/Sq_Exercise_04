@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2024 L.W.
+#
+# SPDX-License-Identifier: MIT
 import unittest
 from src.module import calculate_area
 

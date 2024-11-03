@@ -8,7 +8,7 @@ To install and set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone <your-gitlab-repository-url>
+   git clone <https://github.com/LasseHW/Sq_Exercise_04.git>
 
 ## Usage
 
@@ -23,5 +23,5 @@ If you use this project for your research, please cite it as follows:
 L.W. (2024). Shape Area Calculator.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 ```
